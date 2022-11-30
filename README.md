@@ -8,11 +8,18 @@
 
 This repository contains the assets required to build the [FOSSC Website](https://fossc.netlify.app/). We're glad that you want to contribute!
 
+# FOSSCU
+<h4>We at FOSSCU (Free and Open-Source Community United ) are a Group of individuals who are constantly working to promote Open-Source Culture.
+
+<h4>We are a community, not a club. Anyone who is eager to start using or contributing to open source software or who wants to learn something new. We are available to all of you at any moment to assist you.
+
+<h4>We will assist you at every step of your Open Source Journey , guiding you along the way and assisting you anytime you need any help whenever you are stuck.
+
 
 # An overview of the website
 [![CodeFactor](https://www.codefactor.io/repository/github/foss-community/website-fossc/badge)](https://www.codefactor.io/repository/github/foss-community/website-fossc)
 
-![name-of-you-image](/assets/fosscSS.PNG)
+![name-of-you-image](/assests/fossc_website.png)
 
 
 
@@ -36,12 +43,12 @@ Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
 
-![name-of-you-image](/assets/fork!.png)
+![name-of-you-image](/assests/fork!.png)
 
 
 ## Clone the repository
 
-![name-of-you-image](/assets/code.png)
+![name-of-you-image](/assests/code.png)
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
@@ -61,7 +68,7 @@ git clone https://github.com/this-is-you/fossc.git
 ```
 
 
-![name-of-you-image](/assets/link.png)
+![name-of-you-image](/assests/link.png)
 
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
@@ -119,15 +126,15 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 If you go to your repository on GitHub, you'll see a `Contribute` button. Click on that button.
 
-![name-of-you-image](/assets/openpull.png)
+![name-of-you-image](/assests/openpull.png)
 
 click on `Open pull request`.
 
-![name-of-you-image](/assets/createpull.png)
+![name-of-you-image](/assests/createpull.png)
 
 click on `Create pull request`.
 
-![name-of-you-image](/assets/createRequest.png)
+![name-of-you-image](/assests/createRequest.png)
 
 
 click on `Create pull request`.
